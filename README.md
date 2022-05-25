@@ -20,6 +20,8 @@ son_calisma_saati: /tmp/yedekleme_scripti_son_calisma_saati.log
 Alarm Odevi: Bir script yazin :D bu script GNU/Linux sunucunuzun uzerinde dakika’da bir calissin ve makinadaki herhangi bir diskin yada partition'in kullanim orani %90’in uzerinde ise mail atsin. 
 
 
+Mail Ornegi:
+
 ![Alt text](example_ss/disk_alert.png?raw=True "Disk Alert Example")
 
 
